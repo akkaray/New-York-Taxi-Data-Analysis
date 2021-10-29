@@ -21,6 +21,7 @@ Used the max and min functions of python
 used split() to split the hours from date time and then used the keys method to get the number for each hour and created a graph in excel. 
 <br>
 <br>
+
 ![Image of chart]("Images/Picture.png")
 <br>
 10.Create a new CSV file which has only one out of every thousand rows.
@@ -28,5 +29,6 @@ Created a new subset of csv using the writer with a column for every 1000 rows
 11.Repeat step 9 with the reduced dataset and compare the two charts.
 Used the same method as in step 9 to get another histogram of subsetfile,drew a graph in excel and compared the two graphs.
 <br>
+
 ![Image of chart]("Images/subset picture.png")
 <br>
