@@ -22,7 +22,7 @@ used split() to split the hours from date time and then used the keys method to 
 <br>
 <br>
 
-![Image of chart]("Images/Picture.png")
+![Image of chart](Images/Picture.png)
 <br>
 10.Create a new CSV file which has only one out of every thousand rows.
 Created a new subset of csv using the writer with a column for every 1000 rows
