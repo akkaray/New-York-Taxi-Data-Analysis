@@ -30,5 +30,5 @@ Created a new subset of csv using the writer with a column for every 1000 rows
 Used the same method as in step 9 to get another histogram of subsetfile,drew a graph in excel and compared the two graphs.
 <br>
 
-![Image of chart]("Images/subset picture.png")
+![Image of chart](Images/subset_picture.png)
 <br>
