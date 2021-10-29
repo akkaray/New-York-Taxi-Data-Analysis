@@ -19,9 +19,14 @@ Used the key value method as showed in the previous assignments to find the uniq
 Used the max and min functions of python
 9.Create a chart which shows the average number of passengers each hour of the day. (X axis should have 24 hours)
 used split() to split the hours from date time and then used the keys method to get the number for each hour and created a graph in excel. 
-![Image of chart](Images/Picture)
+<br>
+<br>
+![Image of chart]("Images/Picture.png")
+<br>
 10.Create a new CSV file which has only one out of every thousand rows.
 Created a new subset of csv using the writer with a column for every 1000 rows
 11.Repeat step 9 with the reduced dataset and compare the two charts.
 Used the same method as in step 9 to get another histogram of subsetfile,drew a graph in excel and compared the two graphs.
-![Image of chart](Images/subset picture)
+<br>
+![Image of chart]("Images/subset picture.png")
+<br>
